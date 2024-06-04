@@ -1,0 +1,1 @@
+Este proyecto cuenta con un menu hecho en c++ el cual da creditos y cuenta con usuarios normales y un administrador el codigo de admin es '345', al mostrar las canciones antes de comprarlas da una muestra de 15 segundos, una vez comprada la cancion con creditos aparece completa en una pagina hecha con html
